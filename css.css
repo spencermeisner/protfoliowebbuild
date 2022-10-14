@@ -23,10 +23,12 @@ menu {
   top: 20px;
 }
 
-.containerpictures1 {
-  width: 200px;
-  height: 200px;
-  display: inline-block;
+img {
+  width: 30%;
+  height: 30%;
+  margin: 1%;
+  filter: drop-shadow(5px 5px 15px #000000);
+  outline: thin white;
 }
 
 .orderbottom {
