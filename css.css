@@ -6,7 +6,7 @@ body {
 }
 
 .menu {
-  background-color: #FFD9CE;
+  background-color: #C5D1EB;
   padding: 1em;
   border: solid thin black;
   position: sticky;
@@ -31,7 +31,11 @@ img {
   outline: thin white;
 }
 
-.orderbottom {
+#MenuButton {
+transition: hover;
+
+}
+#orderbottom {
   position: relative;
   bottom: 30px;
   top: 90%;
