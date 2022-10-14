@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@100&display=swap" rel="stylesheet">
+
+  </head>
+  <div class="menu">
+    <a href="#">The finest coffee, the best prices.</a>
+    <menu>
+      <li><button id="MenuButton">Menu</button></li>
+      <li><button id="Contact">Contact Us</button></li>
+      <li><button id="Ordermenu">Order</button></li>
+    </menu>
+  </div>
+
+  <body>
+    <h1>
+      Sparks Coffee
+    </h1>
+    <p>
+      Drink good coffee, and sparks fly.
+    </p>
+<div id="containerpictures">
+<li> <picture id="containerpictures1">
+      <source src="https://images.unsplash.com/photo-1532499016263-f2c3e89de9cd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
+       media="(max-width: 800px)">
+    <img src="https://images.unsplash.com/photo-1532499016263-f2c3e89de9cd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80" alt="Cookies on a plate.">
+</picture> </li>
+
+<li> <picture id="containerpictures2">
+      <source src="https://images.unsplash.com/photo-1604423043492-41303788de80?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=699&q=80"
+       media="(max-width: 800px)">
+    <img src="https://images.unsplash.com/photo-1604423043492-41303788de80?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=699&q=80" alt="Latte in a cup.">
+</picture> </li>
+<li> <picture id="containerpictures3">
+      <source src="https://images.unsplash.com/photo-1580933073521-dc49ac0d4e6a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80"
+       media="(max-width: 800px)">
+    <img src="https://images.unsplash.com/photo-1580933073521-dc49ac0d4e6a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80" alt="Coffee beans.">
+</picture> </li>
+</div>
+<button id="orderbottom">
+Order Coffee!
+</button>
+  </body>
+
+</html>
