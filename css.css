@@ -6,9 +6,11 @@ body {
 }
 h1 {
   font-size: 200px;
+  filter: drop-shadow(5px 5px 15px #000000);
 }
 h2 {
-  font-size: 80px
+  font-size: 60px;
+  filter: drop-shadow(5px 5px 15px #000000);
 }
 .menu {
   background-color: #C5D1EB;
