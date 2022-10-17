@@ -4,7 +4,12 @@ body {
   color: white;
   font-family: 'Work Sans', sans-serif;
 }
-
+h1 {
+  font-size: 250px;
+}
+h2 {
+  font-size: 80px
+}
 .menu {
   background-color: #C5D1EB;
   padding: 1em;
