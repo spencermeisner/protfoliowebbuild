@@ -1,21 +1,25 @@
 body {
-  background-image: url(https://images.unsplash.com/photo-1497935586351-b67a49e012bf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80);
+  background-image: url(https://images.unsplash.com/5/unsplash-bonus.jpg?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80);
   background-size: cover;
   color: white;
   font-family: 'Work Sans', sans-serif;
 }
+
 h1 {
   font-size: 200px;
   filter: drop-shadow(5px 5px 15px #000000);
   margin-bottom: 2px;
   text-align: center;
 }
+
 h2 {
   font-size: 80px;
   filter: drop-shadow(5px 5px 15px #000000);
   margin-top: 2px;
   text-align: center;
+
 }
+
 .menu {
   background-color: #C5D1EB;
   padding: 1em;
@@ -38,15 +42,19 @@ img {
   width: 15%;
   height: 15%;
   margin: 1%;
+
   filter: drop-shadow(5px 5px 15px #000000);
   outline: thin white;
- 
+}
+
+#coffee-menu {
+  margin-top: 10px;
 }
 
 #MenuButton {
-transition: hover;
-
+  transition: hover;
 }
+
 #orderbottom {
   position: relative;
   bottom: 30px;
