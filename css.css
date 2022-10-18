@@ -13,15 +13,18 @@ h1 {
 }
 
 h2 {
-  font-size: 80px;
+  font-size: 65px;
   filter: drop-shadow(5px 5px 15px #000000);
   margin-top: 2px;
   text-align: center;
 
 }
 
+h3{
+  font-size: 25px;
+}
 .menu {
-  background-color: #C5D1EB;
+  background-color: #E8EAEB;
   padding: 1em;
   border: solid thin black;
   position: sticky;
@@ -39,25 +42,43 @@ menu {
 }
 
 img {
+  display: inline-block;
   width: 15%;
   height: 15%;
   margin: 1%;
-
   filter: drop-shadow(5px 5px 15px #000000);
   outline: thin white;
 }
-
-#coffee-menu {
-  margin-top: 10px;
+#baking {
+  margin-left: 26%;
 }
 
+#item-menu {
+  margin-top: 10px;
+}
+#menubox {
+  background-color: #DBDBDC;
+  border: solid thin black;
+  filter: drop-shadow(5px 5px 15px #000000);
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 5%;
+  color: #000000;
+}
+#menuitems  {
+  font-weight: bolder;
+  padding-left: 10px;
+}
+#coffee-menu {
+  padding-left: 10px;
+}
 #MenuButton {
   transition: hover;
 }
 
 #orderbottom {
   position: relative;
-  bottom: 30px;
-  top: 90%;
-  left: 90%;
+  bottom: 1px;
+  top: 100%;
+  left: 89%;
 }
