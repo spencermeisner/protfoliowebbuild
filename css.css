@@ -63,8 +63,9 @@ img {
   filter: drop-shadow(5px 5px 15px #000000);
   margin-left: 10%;
   margin-right: 10%;
-  margin-top: 5%;
+  margin-top: 3%;
   color: #000000;
+  padding-top: 2px;
 }
 #menuitems  {
   padding-left: 10px;
@@ -76,6 +77,10 @@ img {
 #fooditems {
   padding-left: 10px;
   font-weight: bolder;
+  }
+  #coffee-beans {
+  padding-left: 10px;
+  font-weight: bolder;
 }
 #coffee-menu {
   padding-left: 10px;
@@ -83,10 +88,15 @@ img {
 #food-menu {
   padding-left: 10px;
 }
+#beans-menu{
+  padding-left: 10px;
+}
 #MenuButton {
   transition: hover;
 }
-
+#calendar {
+  margin-left: 70px;
+}
 #orderbottom {
   position: relative;
   bottom: 1px;
