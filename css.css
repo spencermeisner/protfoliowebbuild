@@ -95,10 +95,10 @@ img {
   transition: hover;
 }
 #EVENTS {
-  margin-left: 26%;
+  margin: auto;
 }
 #map {
-  margin-left: 33%
+  margin: auto;
 }
 #orderbottom {
   position: relative;
