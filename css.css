@@ -96,9 +96,11 @@ img {
 }
 #EVENTS {
   margin: auto;
+  width: auto;
 }
 #map {
   margin: auto;
+  width: auto;
 }
 #orderbottom {
   position: relative;
