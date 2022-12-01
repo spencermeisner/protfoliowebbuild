@@ -76,7 +76,7 @@ menu {
 }
 
 #item-menu {
-  margin-top: 15px;
+  margin-top: 40px;
 }
 #menubox {
   background-color: #DBDBDC;
@@ -116,12 +116,14 @@ menu {
   transition: hover;
 }
 #EVENTS {
-  margin: auto;
-  width: 50%;
+ display:flex;
+ justify-content: center;
 }
+
 #find-us {
-  margin-top: 15px;
+  margin-top: 40px;
 }
+
 #map {
   display: flex;
   justify-content: center;
