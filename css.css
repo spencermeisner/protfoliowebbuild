@@ -56,11 +56,18 @@ menu {
 }
 #containerpictures img{
   width: 25%%;
-  filter: drop-shadow((5px 5px 15px #000000))
+  filter: drop-shadow((5px 5px 15px #000000)
 }
 
 #latte {
-  margin-left: 26%;
+  width: 25%;
+}
+#baking {
+  width: 25%;
+}
+
+#coffeebeans {
+  width: 25%;
 }
 
 #item-menu {
