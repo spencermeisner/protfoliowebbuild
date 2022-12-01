@@ -41,13 +41,18 @@ menu {
   top: 20px;
 }
 
-img {
+/*img {
   display: inline-block;
   width: 15%;
   height: 15%;
   margin: 1%;
   filter: drop-shadow(5px 5px 15px #000000);
   outline: thin white;
+}*/
+
+#containerpictures {
+  display: flex;
+  justify-content: space-evenly;
 }
 
 #latte {
