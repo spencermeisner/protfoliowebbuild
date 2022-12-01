@@ -54,10 +54,6 @@ menu {
   display: flex;
   justify-content: space-evenly;
 }
-#containerpictures img{
-  width: 25%%;
-  filter: drop-shadow((5px 5px 15px #000000)
-}
 
 #latte {
   width: 25%;
