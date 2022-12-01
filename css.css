@@ -58,19 +58,25 @@ menu {
 #latte {
   width: 25%;
   height: 25%;
+  filter: drop-shadow(5px 5px 15px #000000);
+  outline: thin white;
 }
 #baking {
   width: 25%;
   height: 25%;
+  filter: drop-shadow(5px 5px 15px #000000);
+  outline: thin white;
 }
 
 #coffeebeans {
   width: 25%;
   height: 25%;
+  filter: drop-shadow(5px 5px 15px #000000);
+  outline: thin white;
 }
 
 #item-menu {
-  margin-top: 10px;
+  margin-top: 15px;
 }
 #menubox {
   background-color: #DBDBDC;
